@@ -50,7 +50,7 @@ document.getElementById('orchajs_obd_heading_less45min').innerHTML = "¡Vamos Ta
 document.getElementById('orchajs_obd_heading_less75min').innerHTML = (y || x || z || v || q);
 document.getElementById('orchajs_obd_heading_less2h').innerHTML = (a || b || c || f || g);
 document.getElementById('orchajs_obd_heading_less4h').innerHTML = "Siguiente Ventana<BR>";
-document.getElementById('orchajs_obd_heading_more4h').innerHTML = "Futuras Ventanas's<BR>";
+document.getElementById('orchajs_obd_heading_more4h').innerHTML = "Futuras Ventanas<BR>";
 document.getElementById('orchajs_obd_heading_total').innerHTML = "Total de Picking<BR>";
 
 
