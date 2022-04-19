@@ -3,6 +3,7 @@
 // @description  Agrega los AA que se encuentran en las zonas de picking.
 // @author       atehortg@
 // @match        https://aftlite-portal-eu.amazon.com/labor_tracking/find_people*
+// @updateURL    https://github.com/atehortg/scripts/edit/main/FindPeopleDashboard.js
 // @grant        none
 // ==/UserScript==
 
