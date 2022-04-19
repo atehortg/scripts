@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Find People Dash
 // @namespace    https://github.com/atehortg/scripts
-// @description  Muestra los AA que se encuentran en las zonas de picking en un esquema resumido, controla el IDLE y evita que estés refrescando la pantalla ya que lo hace automaticamente.
+// @description  Muestra los AAs que se encuentran en las zonas de picking en un esquema resumido, controla el IDLE y evita que estés refrescando la pantalla ya que lo hace automaticamente.
 // @author       atehortg@
 // @match        https://aftlite-portal-eu.amazon.com/labor_tracking/find_people*
 // @updateURL    https://raw.githubusercontent.com/atehortg/scripts/main/FindPeopleDashboard.js
