@@ -3,7 +3,7 @@
 // @namespace    https://github.com/atehortg/scripts
 // @version      1
 // @description  Nos loguea automaticamente cada minuto en ASM desde el AFT Lite antigüo con tan solo mantener la ventana activa en el navegador.
-// @downloadURL  https://github.com/jgray0705/UserScripts/raw/master/AutoASM.user.js
+// @downloadURL  https://raw.githubusercontent.com/atehortg/scripts/main/AutoASM_AFTLite_Antiguo.user.js
 // @author       atehortg@
 // @match        https://aftlite-eu.amazon.com/indirect_action/signin_indirect_action*
 // @grant        none
