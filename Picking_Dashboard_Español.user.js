@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Change External Dashboard Headers
+// @name         Dashboard de picking en Español
 // @namespace    https://github.com/atehortg/scripts
 // @version      1
 // @description  Muestra la dashboard de picking en español y con los minutos más claros de facil comprensión.
