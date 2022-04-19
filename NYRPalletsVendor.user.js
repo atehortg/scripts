@@ -5,7 +5,7 @@
 // @description  Muestra los codigos de los vendor en la dashboard de NYR Pallets
 // @author       atehortg@
 // @match        https://aftlite-eu.amazon.com/dock_receive/view_nyr_pallets*
-// @downloadURL  https://raw.githubusercontent.com/atehortg/scripts/main/FindPeopleDashboard.user.js
+// @downloadURL  https://raw.githubusercontent.com/atehortg/scripts/main/NYRPalletsVendor.user.js
 // @grant        none
 // ==/UserScript==
 
