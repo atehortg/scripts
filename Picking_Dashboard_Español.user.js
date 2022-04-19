@@ -13,7 +13,7 @@ var d = new Date();
 var h = d.getHours();
 var m = d.getMinutes();
 if(m >= 15 && (h == 1 || h == 3 || h == 5 || h== 7 || h == 9 || h == 11 || h == 13 || h == 15 || h == 17 || h == 19 || h == 21 || h == 23)){
-    var a = "Scheduled 1HR Orders<BR>"
+    var a = "Pedidos de 1 Hora<BR>"
     } else if( m < 30 && (h == 2 || h == 4 || h == 6 || h == 8 || h == 10 || h == 12 || h == 14 || h == 16 || h == 18 || h == 20 || h == 22)){
         var b = "<75m Para SLAM<BR>"
     } else if( m < 45 && (h == 2 || h == 4 || h == 6 || h == 8 || h == 10 || h == 12 || h == 14 || h == 16 || h == 18 || h == 20 || h == 22)){
@@ -34,7 +34,7 @@ if(m < 10 || m >= 30){
         var x="<20m Para SLAM<BR>"
         }else if(m < 25){
             setInterval(function(){ location.reload(); }, 300000);
-            var z="<10m Para SLAMBR>"
+            var z="<10m Para SLAM>"
             }else if(m < 29){
                 setInterval(function(){ location.reload(); }, 60000);
                 var v="<5m Para SLAM<BR>"
